@@ -1,3 +1,5 @@
+![PoC](asset/output.gif)
+
 # Arbitrary file write outside project through dependency alias in `bun install`
 
 ## Summary
